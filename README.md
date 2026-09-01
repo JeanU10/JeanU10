@@ -2,7 +2,7 @@
   <img src="./profile-banner.png" alt="Banner de Jeanpierre Valenzuela" width="100%" />
 </p>
 
-<h1 align="center">Hola, soy Jeanpierre Valenzuela 👋</h1>
+<h1 align="center">Hola, soy Jeanpierre Valenzuela</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -21,11 +21,9 @@
 
 ## Sobre mí
 
-Soy estudiante de **Ingeniería Informática en Duoc UC**. Me interesa entender cómo se construye el software y cómo hacerlo más seguro, útil y confiable.
-
-- 🌱 Actualmente fortalezco mis bases en **Java, Python y desarrollo backend**.
-- 🛡️ Complemento la programación con formación en **ciberseguridad, IA y datos**.
-- 🎯 Busco convertir lo que aprendo en proyectos claros, funcionales y cada vez mejor diseñados.
+<p align="center">
+  <img src="./about-me.svg" alt="Jeanpierre Valenzuela, estudiante de Ingeniería Informática en Duoc UC. Interesado en desarrollo de software, seguridad, inteligencia artificial y datos." width="100%" />
+</p>
 
 ## En qué estoy trabajando
 
@@ -36,17 +34,25 @@ Soy estudiante de **Ingeniería Informática en Duoc UC**. Me interesa entender 
 ## Tecnologías y herramientas
 
 <p align="center">
-  <strong>Lenguajes</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin,html&theme=dark&perline=5" alt="Java, Python, JavaScript, Kotlin y HTML" />
+  <strong>Base de desarrollo</strong><br /><br />
+  <img src="https://img.shields.io/badge/Java-17191C?style=for-the-badge&logo=openjdk&logoColor=D19A68" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-17191C?style=for-the-badge&logo=python&logoColor=D19A68" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-17191C?style=for-the-badge&logo=javascript&logoColor=D19A68" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Kotlin-17191C?style=for-the-badge&logo=kotlin&logoColor=D19A68" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/HTML5-17191C?style=for-the-badge&logo=html5&logoColor=D19A68" alt="HTML5" />
 </p>
 
 <p align="center">
-  <strong>Herramientas y ecosistema</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=astro,docker,git,github,idea&theme=dark&perline=5" alt="Astro, Docker, Git, GitHub e IntelliJ IDEA" />
+  <strong>Construcción y flujo de trabajo</strong><br /><br />
+  <img src="https://img.shields.io/badge/Astro-17191C?style=for-the-badge&logo=astro&logoColor=D19A68" alt="Astro" />
+  <img src="https://img.shields.io/badge/Docker-17191C?style=for-the-badge&logo=docker&logoColor=D19A68" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-17191C?style=for-the-badge&logo=git&logoColor=D19A68" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-17191C?style=for-the-badge&logo=github&logoColor=D19A68" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-17191C?style=for-the-badge&logo=intellijidea&logoColor=D19A68" alt="IntelliJ IDEA" />
 </p>
 
 <details>
-  <summary><strong>🏅 Certificaciones verificadas</strong></summary>
+  <summary><strong>Certificaciones verificadas</strong></summary>
   <br />
 
 - **Seguridad:** CAPC · CSFPC™ · CEHPC™ · ISO 27001 Foundation

@@ -1,0 +1,52 @@
+<svg width="960" height="270" viewBox="0 0 960 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sobre Jeanpierre Valenzuela</title>
+  <desc id="desc">Presentación profesional de Jeanpierre Valenzuela, estudiante de Ingeniería Informática en Duoc UC.</desc>
+
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="960" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17191C"/>
+      <stop offset="0.55" stop-color="#111315"/>
+      <stop offset="1" stop-color="#0D0F11"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="28" y1="0" x2="932" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A4A2E"/>
+      <stop offset="0.5" stop-color="#D19A68"/>
+      <stop offset="1" stop-color="#6A402A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 135) rotate(90) scale(220 350)">
+      <stop stop-color="#C58A55" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#C58A55" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="960" height="270" rx="18" fill="url(#surface)"/>
+  <rect width="960" height="270" rx="18" fill="url(#glow)"/>
+  <rect x="1" y="1" width="958" height="268" rx="17" stroke="#493426" stroke-opacity="0.8"/>
+  <path d="M28 24H932" stroke="url(#accent)" stroke-width="2"/>
+
+  <text x="52" y="62" fill="#D19A68" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">PERFIL / 01</text>
+  <text x="52" y="111" fill="#F4F5F6" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="750" letter-spacing="0.3">APRENDER CON</text>
+  <text x="52" y="147" fill="#F4F5F6" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="750" letter-spacing="0.3">INTENCIÓN.</text>
+  <text x="52" y="187" fill="#D19A68" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="650" letter-spacing="1.2">CONSTRUIR CON CRITERIO.</text>
+  <path d="M52 217H292" stroke="#5D402E"/>
+  <circle cx="55" cy="231" r="2.5" fill="#C58A55"/>
+  <path d="M66 231H126" stroke="#6E4A34" stroke-linecap="round"/>
+
+  <path d="M349 49V221" stroke="#3D3028"/>
+
+  <text x="389" y="67" fill="#F4F5F6" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Jeanpierre Valenzuela</text>
+  <text x="389" y="99" fill="#C8CDD3" font-family="Segoe UI, Arial, sans-serif" font-size="14">Disfruto entender cómo funcionan las cosas, llevar una idea al código</text>
+  <text x="389" y="121" fill="#C8CDD3" font-family="Segoe UI, Arial, sans-serif" font-size="14">y mejorarla hasta convertirla en una solución clara, útil y confiable.</text>
+
+  <text x="389" y="164" fill="#9A7A63" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">FORMACIÓN</text>
+  <text x="389" y="184" fill="#E4E6E8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Ingeniería Informática · Duoc UC</text>
+
+  <text x="645" y="164" fill="#9A7A63" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">BASE</text>
+  <text x="645" y="184" fill="#E4E6E8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Java · Python · Backend</text>
+
+  <text x="389" y="220" fill="#9A7A63" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">DIRECCIÓN</text>
+  <text x="478" y="220" fill="#D19A68" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="650">DESARROLLO · SEGURIDAD · IA Y DATOS</text>
+
+  <circle cx="907" cy="61" r="14" stroke="#6E4A34"/>
+  <path d="M901 61H913M907 55V67" stroke="#D19A68" stroke-linecap="round"/>
+</svg>

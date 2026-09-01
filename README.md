@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=C58A55&center=true&vCenter=true&width=620&lines=Desarrollador+de+software;Java+%C2%B7+Python+%C2%B7+Backend;Ciberseguridad+%C2%B7+IA+%C2%B7+Datos;Aprender+%C2%B7+Construir+%C2%B7+Proteger" alt="Presentación profesional animada" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C58A55&center=true&vCenter=true&width=660&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Construyendo+con+Java+%C2%B7+Python+%C2%B7+Backend;Explorando+Ciberseguridad+%C2%B7+IA+%C2%B7+Datos" alt="Presentación profesional animada" />
   </a>
 </p>
 
@@ -19,19 +19,21 @@
   </a>
 </p>
 
-> Estudiante de Ingeniería Informática en **Duoc UC**, enfocado en conectar desarrollo de software, seguridad e inteligencia artificial para construir sistemas más sólidos y confiables.
+## Sobre mí
 
-## `> whoami`
+Soy estudiante de **Ingeniería Informática en Duoc UC**. Me interesa entender cómo se construye el software y cómo hacerlo más seguro, útil y confiable.
 
-```java
-var jeanpierre = new Developer(
-    List.of("Java", "Python"),
-    List.of("Backend", "Cybersecurity", "AI & Data"),
-    "Aprender, construir y mejorar"
-);
-```
+- 🌱 Actualmente fortalezco mis bases en **Java, Python y desarrollo backend**.
+- 🛡️ Complemento la programación con formación en **ciberseguridad, IA y datos**.
+- 🎯 Busco convertir lo que aprendo en proyectos claros, funcionales y cada vez mejor diseñados.
 
-## Tecnologías
+## En qué estoy trabajando
+
+<p align="center">
+  <img src="./focus-areas.svg" alt="Desarrollo de software, ciberseguridad e inteligencia artificial y datos" width="100%" />
+</p>
+
+## Tecnologías y herramientas
 
 <p align="center">
   <strong>Lenguajes</strong><br /><br />
@@ -42,25 +44,6 @@ var jeanpierre = new Developer(
   <strong>Herramientas y ecosistema</strong><br /><br />
   <img src="https://skillicons.dev/icons?i=astro,docker,git,github,idea&theme=dark&perline=5" alt="Astro, Docker, Git, GitHub e IntelliJ IDEA" />
 </p>
-
-## Áreas de enfoque
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🛡️ Seguridad</h3>
-      <sub>Cybersecurity · Ethical Hacking · ISO 27001</sub>
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 IA y datos</h3>
-      <sub>Artificial Intelligence · Generative AI · Big Data</sub>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Ingeniería</h3>
-      <sub>Backend · Python · Scrum · Aprendizaje continuo</sub>
-    </td>
-  </tr>
-</table>
 
 <details>
   <summary><strong>🏅 Certificaciones verificadas</strong></summary>

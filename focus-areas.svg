@@ -1,0 +1,78 @@
+<svg width="960" height="250" viewBox="0 0 960 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Áreas de trabajo de Jeanpierre Valenzuela</title>
+  <desc id="desc">Tres tarjetas sobre desarrollo de software, ciberseguridad e inteligencia artificial y datos.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17191C"/>
+      <stop offset="1" stop-color="#0E1012"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8F5D39"/>
+      <stop offset="0.5" stop-color="#D19A68"/>
+      <stop offset="1" stop-color="#7A4A2E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(480 0) rotate(90) scale(250 480)">
+      <stop stop-color="#C58A55" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#C58A55" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="960" height="250" rx="18" fill="#0D0F11"/>
+  <rect width="960" height="250" rx="18" fill="url(#glow)"/>
+  <path d="M24 22H936" stroke="#5C402D" stroke-opacity="0.45"/>
+  <path d="M24 228H936" stroke="#5C402D" stroke-opacity="0.45"/>
+
+  <!-- Desarrollo de software -->
+  <g filter="url(#shadow)">
+    <rect x="24" y="34" width="288" height="182" rx="14" fill="url(#panel)" stroke="#493426"/>
+    <rect x="24" y="34" width="288" height="3" rx="1.5" fill="url(#copper)"/>
+  </g>
+  <circle cx="68" cy="83" r="24" fill="#C58A55" fill-opacity="0.1" stroke="#A66E45"/>
+  <path d="M61 76L53 83L61 90M75 76L83 83L75 90M71 70L65 96" stroke="#D7A476" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="103" y="78" fill="#F3F4F6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">DESARROLLO</text>
+  <text x="103" y="99" fill="#F3F4F6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">DE SOFTWARE</text>
+  <text x="48" y="139" fill="#C8CDD3" font-family="Segoe UI, Arial, sans-serif" font-size="14">Construir bases sólidas</text>
+  <text x="48" y="171" fill="#D7A476" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">JAVA  ·  PYTHON  ·  BACKEND</text>
+  <path d="M48 190H288" stroke="#3B3028"/>
+  <circle cx="51" cy="202" r="2" fill="#C58A55"/>
+  <path d="M60 202H113" stroke="#6E4A34" stroke-linecap="round"/>
+
+  <!-- Ciberseguridad -->
+  <g filter="url(#shadow)">
+    <rect x="336" y="34" width="288" height="182" rx="14" fill="url(#panel)" stroke="#493426"/>
+    <rect x="336" y="34" width="288" height="3" rx="1.5" fill="url(#copper)"/>
+  </g>
+  <circle cx="380" cy="83" r="24" fill="#C58A55" fill-opacity="0.1" stroke="#A66E45"/>
+  <path d="M380 68L392 73V82C392 90 387 96 380 99C373 96 368 90 368 82V73L380 68Z" stroke="#D7A476" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M375 83L379 87L386 78" stroke="#D7A476" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="415" y="89" fill="#F3F4F6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">CIBERSEGURIDAD</text>
+  <text x="360" y="139" fill="#C8CDD3" font-family="Segoe UI, Arial, sans-serif" font-size="14">Diseñar con criterio</text>
+  <text x="360" y="171" fill="#D7A476" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">ETHICAL HACKING  ·  ISO 27001</text>
+  <path d="M360 190H600" stroke="#3B3028"/>
+  <circle cx="363" cy="202" r="2" fill="#C58A55"/>
+  <path d="M372 202H425" stroke="#6E4A34" stroke-linecap="round"/>
+
+  <!-- Inteligencia artificial y datos -->
+  <g filter="url(#shadow)">
+    <rect x="648" y="34" width="288" height="182" rx="14" fill="url(#panel)" stroke="#493426"/>
+    <rect x="648" y="34" width="288" height="3" rx="1.5" fill="url(#copper)"/>
+  </g>
+  <circle cx="692" cy="83" r="24" fill="#C58A55" fill-opacity="0.1" stroke="#A66E45"/>
+  <circle cx="692" cy="83" r="5" stroke="#D7A476" stroke-width="2"/>
+  <circle cx="681" cy="73" r="2.5" fill="#D7A476"/>
+  <circle cx="705" cy="72" r="2.5" fill="#D7A476"/>
+  <circle cx="706" cy="94" r="2.5" fill="#D7A476"/>
+  <circle cx="679" cy="95" r="2.5" fill="#D7A476"/>
+  <path d="M688 79L683 75M696 79L703 74M696 87L704 92M688 87L681 93" stroke="#D7A476" stroke-width="1.7" stroke-linecap="round"/>
+  <text x="727" y="78" fill="#F3F4F6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">IA &amp; DATOS</text>
+  <text x="727" y="99" fill="#A7ADB5" font-family="Segoe UI, Arial, sans-serif" font-size="12">APRENDER · EXPLORAR</text>
+  <text x="672" y="139" fill="#C8CDD3" font-family="Segoe UI, Arial, sans-serif" font-size="14">Convertir datos en soluciones</text>
+  <text x="672" y="171" fill="#D7A476" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">GENERATIVE AI  ·  BIG DATA</text>
+  <path d="M672 190H912" stroke="#3B3028"/>
+  <circle cx="675" cy="202" r="2" fill="#C58A55"/>
+  <path d="M684 202H737" stroke="#6E4A34" stroke-linecap="round"/>
+</svg>

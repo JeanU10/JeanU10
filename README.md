@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./profile-banner.png" alt="Banner de Jeanpierre Valenzuela" width="100%" />
+  <img src="./profile-banner.png" alt="Banner de Jean Pierre Valenzuela" width="100%" />
 </p>
 
-<h1 align="center">Hola, soy Jeanpierre Valenzuela</h1>
+<h1 align="center">Hola, soy Jean Pierre Valenzuela</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -22,7 +22,7 @@
 ## Sobre mí
 
 <p align="center">
-  <img src="./about-me.svg" alt="Jeanpierre Valenzuela, estudiante de Ingeniería Informática en Duoc UC. Interesado en desarrollo de software, seguridad, inteligencia artificial y datos." width="100%" />
+  <img src="./about-me.svg" alt="Jean Pierre Valenzuela, estudiante de Ingeniería Informática interesado en desarrollo de software, seguridad, inteligencia artificial y datos." width="100%" />
 </p>
 
 ## En qué estoy trabajando
@@ -66,11 +66,14 @@
 </p>
 </details>
 
-## Actividad técnica
+## Actividad en GitHub
 
 <p align="center">
   <a href="https://github.com/JeanU10">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeanU10&theme=github_dark" alt="Lenguajes más utilizados por commits" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanU10&theme=gruvbox" alt="Estadísticas generales de GitHub" width="49%" />
+  </a>
+  <a href="https://github.com/JeanU10?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeanU10&theme=gruvbox" alt="Lenguajes más utilizados por commits" width="49%" />
   </a>
 </p>
 
